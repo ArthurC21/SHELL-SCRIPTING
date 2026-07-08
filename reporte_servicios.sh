@@ -101,3 +101,4 @@ done
 
 echo "[$(date '+%Y-%m-%d %H:%M:%S')] Auditoría finalizada correctamente." >> "$LOG_OPERACION"
 echo "[OK] Reportes de seguridad listos."
+
