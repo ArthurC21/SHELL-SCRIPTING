@@ -1,4 +1,5 @@
 SHELL_SCRIPTING
+
 Este repositorio contiene tres herramientas en Shell Scripting desarrolladas en Bash para automatizar tareas críticas de administración de TI: monitoreo de hardware, depuración programada de almacenamiento temporal y auditoría de seguridad en tiempo real.
 
 Prerrequisitos:
